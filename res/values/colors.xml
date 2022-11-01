@@ -226,4 +226,8 @@
     <!-- Corvus logo colors -->
     <color name="corvus_logo_highlight">@*android:color/system_accent1_500</color>
     <color name="corvus_logo_undertone">@*android:color/system_accent1_800</color>
+
+   <color name="face_enroll_check_color">#42a5f5</color>
+   <color name="face_enroll_icon_color">#42a5f5</color>
+
 </resources>
